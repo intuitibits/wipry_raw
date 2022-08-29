@@ -14,6 +14,13 @@ Options:
 
 * Requires [libusb](https://github.com/libusb/libusb).
 
+### Installation
+
+```
+unzip wipry_raw-1.0.0_arm64.zip
+sudo mv wipry_raw /usr/bin/
+```
+
 ---
 
 To report any issues please contact Intuitibits Support by emailing support@intuitibits.com.
