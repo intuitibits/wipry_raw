@@ -1,6 +1,6 @@
 # wipry_raw
 
-A command-line utility to dump spectral data from a [Oscium WiPry Clarity](https://oscium.com/products/wipry-clarity/) spectrum analyzer.
+A command-line utility to dump spectral data from an [Oscium WiPry Clarity](https://oscium.com/products/wipry-clarity/) spectrum analyzer.
 
 ```
 Usage: wipry_raw [options]
