@@ -10,6 +10,10 @@ Options:
   -h, --help           Print this message and exit.
 ```
 
+### Requirements
+
+* Requires [libusb](https://github.com/libusb/libusb).
+
 To report any issues please contact Intuitibits Support by emailing support@intuitibits.com.
 
 _Oscium and WiPry are all registered trademarks of Dechnia, LLC._
